@@ -1,4 +1,6 @@
-### Hi there 👋
+### Full Stack Developer and UI Designer 👋
+
+<a href="https://app.daily.dev/Myurtsev"><img src="https://api.daily.dev/devcards/af066285a52d4998a17cabd204f485f6.png?r=dy1" width="400" alt="Murtaza Yurtsev's Dev Card"/></a>
 
 <!--
 **myurtsev/myurtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
