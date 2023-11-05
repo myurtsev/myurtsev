@@ -1,5 +1,9 @@
 ### Full Stack Developer and UI Designer 👋
 
+#### 🔭 October 2023 - Till now. 
+- Mostly active in the Atlassian ecosystem for now; Bitbucket, Jira, Confluence.
+- Sideprojects on Github.
+
 <a href="https://app.daily.dev/Myurtsev"><img src="https://api.daily.dev/devcards/af066285a52d4998a17cabd204f485f6.png?r=dy1" width="400" alt="Murtaza Yurtsev's Dev Card"/></a>
 
 <!--
