@@ -1,6 +1,6 @@
 ## Full Stack Developer, Front-end Savvy and a bit of a UI Designer 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,vue,next,nuxt,typescript,css,scss,tailwind,bootstrap,jquery,php,laravel,html,mysql,figma,vscode,vite,git&theme=dark&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vue,next,nuxt,typescript,svelte,css,scss,tailwind,bootstrap,jquery,php,laravel,html,mysql,figma,vscode,vite,git&theme=dark&perline=10)](https://skillicons.dev)
 
 ### Updates
 
