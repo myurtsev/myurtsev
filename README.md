@@ -4,7 +4,7 @@
 
 ### Updates
 
-#### 🔭 October 2023 - Till now. 
+#### 🔭 October 2023 - January 2024. 
 - Mostly active in the Atlassian ecosystem for now; Bitbucket, Jira, Confluence.
 - Sideprojects on Github.
   
